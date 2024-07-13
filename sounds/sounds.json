@@ -6,6 +6,14 @@
           }
       ],
       "category": "player"
-  }
+  },
+  "main.car_start": {
+    "sounds": [
+        {
+            "name": "car_start"
+        }
+    ],
+    "category": "player"
+}
 
 }
