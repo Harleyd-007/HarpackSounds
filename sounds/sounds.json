@@ -18,7 +18,7 @@
     "main.piano_man": {
         "sounds": [
          {
-             "name": "bike_start"
+             "name": "piano_man"
          }
         ],
      "category": "player"
