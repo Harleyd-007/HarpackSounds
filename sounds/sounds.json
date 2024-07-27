@@ -1,26 +1,34 @@
 {
-  "main.bike_start": {
-      "sounds": [
-          {
-              "name": "bike_start"
-          }
-      ],
-      "category": "player"
+    "main.bike_start": {
+        "sounds": [
+            {
+                "name": "bike_start"
+            }
+        ],
+        "category": "player"
     },
     "main.car_drive": {
-      "sounds": [
-          {
-              "name": "car_drive"
-          }
-      ],
-      "category": "player"
+        "sounds": [
+            {
+                "name": "car_drive"
+            }
+        ],
+        "category": "player"
     },
     "main.piano_man": {
         "sounds": [
-         {
-             "name": "piano_man"
-         }
+            {
+                "name": "piano_man"
+            }
         ],
-     "category": "player"
+        "category": "player"
+    },
+"main.river": {
+    "sounds": [
+        {
+            "name": "river"
+        }
+    ],
+    "category": "player"
 }
 }
