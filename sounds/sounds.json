@@ -30,5 +30,13 @@
         }
     ],
     "category": "player"
+},
+"main.byebyebye": {
+"sounds": [
+    {
+        "name": "byebyebye"
+    }
+],
+"category": "player"
 }
 }
