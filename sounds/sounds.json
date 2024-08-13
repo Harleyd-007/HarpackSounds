@@ -33,9 +33,17 @@
 },
 "main.byebyebye": {
 "sounds": [
-    {
-        "name": "byebyebye"
-    }
+{
+    "name": "byebyebye"
+}
+],
+"category": "player"
+},
+"main.halloween": {
+"sounds": [
+{
+    "name": "halloween"
+}
 ],
 "category": "player"
 }
