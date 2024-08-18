@@ -70,5 +70,13 @@
 }
 ],
 "category": "player"
+},
+"main.war_gun": {
+"sounds": [
+{
+    "name": "war_gun"
+}
+],
+"category": "player"
 }
 }
