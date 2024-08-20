@@ -71,10 +71,10 @@
 ],
 "category": "player"
 },
-"main.war_gun": {
+"main.minigun": {
 "sounds": [
 {
-    "name": "war_gun"
+    "name": "minigun"
 }
 ],
 "category": "player"
