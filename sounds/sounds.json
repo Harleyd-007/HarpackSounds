@@ -94,5 +94,13 @@
 }
 ],
 "category": "player"
+},
+"main.gatling": {
+"sounds": [
+{
+    "name": "gatling"
+}
+],
+"category": "player"
 }
 }
