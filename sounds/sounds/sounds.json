@@ -1,0 +1,106 @@
+{
+    "main.bike_start": {
+        "sounds": [
+            {
+                "name": "bike_start"
+            }
+        ],
+        "category": "player"
+    },
+    "main.car_drive": {
+        "sounds": [
+            {
+                "name": "car_drive"
+            }
+        ],
+        "category": "player"
+    },
+    "main.piano_man": {
+        "sounds": [
+            {
+                "name": "piano_man"
+            }
+        ],
+        "category": "player"
+    },
+"main.river": {
+    "sounds": [
+        {
+            "name": "river"
+        }
+    ],
+    "category": "player"
+},
+"main.byebyebye": {
+"sounds": [
+{
+    "name": "byebyebye"
+}
+],
+"category": "player"
+},
+"main.halloween": {
+"sounds": [
+{
+    "name": "halloween"
+}
+],
+"category": "player"
+},
+"main.train": {
+"sounds": [
+{
+    "name": "train"
+}
+],
+"category": "player"
+},
+"main.train_start": {
+"sounds": [
+{
+    "name": "train_start"
+}
+],
+"category": "player"
+},
+"main.train_cant": {
+"sounds": [
+{
+    "name": "train_cant"
+}
+],
+"category": "player"
+},
+"main.minigun": {
+"sounds": [
+{
+    "name": "minigun"
+}
+],
+"category": "player"
+},
+"main.war_gun": {
+"sounds": [
+{
+    "name": "war_gun"
+}
+],
+"category": "player"
+},
+"main.smokin": {
+"sounds": [
+{
+    "name": "smokin"
+}
+],
+"category": "player"
+},
+"main.gatling": {
+"sounds": [
+{
+    "name": "gatling"
+}
+],
+"category": "player"
+}
+}
