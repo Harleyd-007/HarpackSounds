@@ -102,5 +102,13 @@
 }
 ],
 "category": "player"
+},
+"main.captain_man_transform": {
+"sounds": [
+{
+    "name": "captain_man_transform"
+}
+],
+"category": "player"
 }
 }
