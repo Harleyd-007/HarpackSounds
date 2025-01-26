@@ -102,5 +102,13 @@
 }
 ],
 "category": "player"
+},
+"main.fire_beams": {
+"sounds": [
+{
+    "name": "fire_beams"
+}
+],
+"category": "player"
 }
 }
