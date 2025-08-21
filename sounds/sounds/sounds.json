@@ -23,242 +23,354 @@
     ],
     "category": "player"
   },
-"main.river": {
-  "sounds": [
-    {
-      "name": "river"
-    }
-  ],
-  "category": "player"
-},
-"main.byebyebye": {
-"sounds": [
-{
-  "name": "byebyebye"
-}
-],
-"category": "player"
-},
-"main.halloween": {
-"sounds": [
-{
-  "name": "halloween"
-}
-],
-"category": "player"
-},
-"main.train": {
-"sounds": [
-{
-  "name": "train"
-}
-],
-"category": "player"
-},
-"main.train_start": {
-"sounds": [
-{
-  "name": "train_start"
-}
-],
-"category": "player"
-},
-"main.train_cant": {
-"sounds": [
-{
-  "name": "train_cant"
-}
-],
-"category": "player"
-},
-"main.dancing_nsync": {
-"sounds": [
-  {
-    "name": "dancing_nsync"
+  "main.river": {
+    "sounds": [
+      {
+        "name": "river"
+      }
+    ],
+    "category": "player"
+  },
+  "main.byebyebye": {
+    "sounds": [
+      {
+        "name": "byebyebye"
+      }
+    ],
+    "category": "player"
+  },
+  "main.halloween": {
+    "sounds": [
+      {
+        "name": "halloween"
+      }
+    ],
+    "category": "player"
+  },
+  "main.train": {
+    "sounds": [
+      {
+        "name": "train"
+      }
+    ],
+    "category": "player"
+  },
+  "main.train_start": {
+    "sounds": [
+      {
+        "name": "train_start"
+      }
+    ],
+    "category": "player"
+  },
+  "main.train_cant": {
+    "sounds": [
+      {
+        "name": "train_cant"
+      }
+    ],
+    "category": "player"
+  },
+  "main.dancing_nsync": {
+    "sounds": [
+      {
+        "name": "dancing_nsync"
+      }
+    ],
+    "category": "player"
+  },
+  "main.minigun": {
+    "sounds": [
+      {
+        "name": "minigun"
+      }
+    ],
+    "category": "player"
+  },
+  "main.war_gun": {
+    "sounds": [
+      {
+        "name": "war_gun"
+      }
+    ],
+    "category": "player"
+  },
+  "main.smokin": {
+    "sounds": [
+      {
+        "name": "smokin"
+      }
+    ],
+    "category": "player"
+  },
+  "main.gatling": {
+    "sounds": [
+      {
+        "name": "gatling"
+      }
+    ],
+    "category": "player"
+  },
+  "main.crucible": {
+    "sounds": [
+      {
+        "name": "crucible"
+      }
+    ],
+    "category": "player"
+  },
+  "main.captain_man_transform": {
+    "sounds": [
+      {
+        "name": "captain_man_transform"
+      }
+    ],
+    "category": "player"
+  },
+  "main.frost_breath": {
+    "sounds": [
+      {
+        "name": "frost_breath"
+      }
+    ],
+    "category": "player"
+  },
+  "main.frost_charge": {
+    "sounds": [
+      {
+        "name": "frost_charge"
+      }
+    ],
+    "category": "player"
+  },
+  "suit.thor.mjolnir.landing": {
+    "category": "player",
+    "sounds": [
+      "mjolnir/landing"
+    ]
+  },
+  "suit.thor.mjolnir.hit": {
+    "category": "player",
+    "sounds": [
+      "mjolnir/hit_1",
+      "mjolnir/hit_2",
+      "mjolnir/hit_3",
+      "mjolnir/hit_4"
+    ]
+  },
+  "suit.thor.mjolnir.lightning.hit": {
+    "category": "player",
+    "sounds": [
+      "mjolnir/lightning/hit_1",
+      "mjolnir/lightning/hit_2",
+      "mjolnir/lightning/hit_3",
+      "mjolnir/lightning/hit_4"
+    ]
+  },
+  "suit.thor.mjolnir.lightning.flicker_loop": {
+    "category": "player",
+    "sounds": [
+      "mjolnir/lightning/flicker_loop"
+    ]
+  },
+  "suit.thor.mjolnir.lightning.lightning_shoot": {
+    "category": "player",
+    "sounds": [
+      "mjolnir/lightning/lightning_shoot"
+    ]
+  },
+  "suit.thor.mjolnir.lightning.charged_beam.shoot": {
+    "category": "player",
+    "sounds": [
+      "mjolnir/lightning/charged_beam_shoot"
+    ]
+  },
+  "suit.thor.mjolnir.lightning.charged_beam.loop": {
+    "category": "player",
+    "sounds": [
+      "mjolnir/lightning/charged_beam_loop"
+    ]
+  },
+  "suit.thor.mjolnir.lightning.charged_beam.stop": {
+    "category": "player",
+    "sounds": [
+      "mjolnir/lightning/charged_beam_stop"
+    ]
+  },
+  "main.raidenscream": {
+    "sounds": [
+      {
+        "name": "raidenscream"
+      }
+    ],
+    "category": "player"
+  },
+  "main.tokarev": {
+    "sounds": [
+      {
+        "name": "tokarev"
+      }
+    ],
+    "category": "player"
+  },
+  "main.tf2_rocket_launcher": {
+    "sounds": [
+      {
+        "name": "tf2_rocket_launcher"
+      }
+    ],
+    "category": "player"
+  },
+  "main.walther_ppk": {
+    "sounds": [
+      {
+        "name": "walther_ppk"
+      }
+    ],
+    "category": "player"
+  },
+  "main.golden_gun": {
+    "sounds": [
+      {
+        "name": "golden_gun"
+      }
+    ],
+    "category": "player"
+  },
+  "main.big_iron": {
+    "sounds": [
+      {
+        "name": "big_iron"
+      }
+    ],
+    "category": "player"
+  },
+  "main.fire_beams": {
+    "sounds": [
+      {
+        "name": "fire_beams"
+      }
+    ],
+    "category": "player"
+  },
+  "main.nightcrawler_bamf": {
+    "sounds": [
+      {
+        "name": "nightcrawler_bamf"
+      }
+    ],
+    "category": "player"
+  },
+  "main.block(1)": {
+    "sounds": [
+      {
+        "name": "lightsaber/block/block(1)"
+      }
+    ],
+    "category": "player"
+  },
+  "main.block(2)": {
+    "sounds": [
+      {
+        "name": "lightsaber/block/block(2)"
+      }
+    ],
+    "category": "player"
+  },
+  "main.block(3)": {
+    "sounds": [
+      {
+        "name": "lightsaber/block/block(3)"
+      }
+    ],
+    "category": "player"
+  },
+  "main.hum": {
+    "sounds": [
+      {
+        "name": "lightsaber/block/hum"
+      }
+    ],
+    "category": "player"
+  },
+  "main.ignite(1)": {
+    "sounds": [
+      {
+        "name": "lightsaber/ignite/ignite(1)"
+      }
+    ],
+    "category": "player"
+  },
+  "main.ignite(2)": {
+    "sounds": [
+      {
+        "name": "lightsaber/ignite/ignite(2)"
+      }
+    ],
+    "category": "player"
+  },
+  "main.strike(1)": {
+    "sounds": [
+      {
+        "name": "lightsaber/strike/strike(1)"
+      }
+    ],
+    "category": "player"
+  },
+  "main.strike(2)": {
+    "sounds": [
+      {
+        "name": "lightsaber/strike/strike(2)"
+      }
+    ],
+    "category": "player"
+  },
+  "main.strike(3)": {
+    "sounds": [
+      {
+        "name": "lightsaber/strike/strike(3)"
+      }
+    ],
+    "category": "player"
+  },
+  "main.swing(1)": {
+    "sounds": [
+      {
+        "name": "lightsaber/swing/swing(1)"
+      }
+    ],
+    "category": "player"
+  },
+  "main.swing(2)": {
+    "sounds": [
+      {
+        "name": "lightsaber/swing/swing(2)"
+      }
+    ],
+    "category": "player"
+  },
+  "main.swing(3)": {
+    "sounds": [
+      {
+        "name": "lightsaber/swing/swing(3)"
+      }
+    ],
+    "category": "player"
+  },
+  "main.unignite(1)": {
+    "sounds": [
+      {
+        "name": "lightsaber/unignite/unignite(1)"
+      }
+    ],
+    "category": "player"
+  },
+  "main.unignite(2)": {
+    "sounds": [
+      {
+        "name": "lightsaber/unignite/unignite(2)"
+      }
+    ],
+    "category": "player"
   }
-],
-"category": "player"
-},
-"main.minigun": {
-"sounds": [
-{
-  "name": "minigun"
-}
-],
-"category": "player"
-},
-"main.war_gun": {
-"sounds": [
-{
-  "name": "war_gun"
-}
-],
-"category": "player"
-},
-"main.smokin": {
-"sounds": [
-{
-  "name": "smokin"
-}
-],
-"category": "player"
-},
-"main.gatling": {
-"sounds": [
-{
-  "name": "gatling"
-}
-],
-"category": "player"
-},
-"main.crucible": {
-"sounds": [
-{
-  "name": "crucible"
-}
-],
-"category": "player"
-},
-"main.captain_man_transform": {
-"sounds": [
-{
-  "name": "captain_man_transform"
-}
-],
-"category": "player"
-},
-"main.frost_breath": {
-"sounds": [
-  {
-    "name": "frost_breath"
-  }
-],
-"category": "player"
-},
-"main.frost_charge": {
-"sounds": [
-  {
-    "name": "frost_charge"
-  }
-],
-"category": "player"
-},
-"suit.thor.mjolnir.landing": {
-"category": "player",
-"sounds": [
-"mjolnir/landing"
-]
-},
-"suit.thor.mjolnir.hit": {
-"category": "player",
-"sounds": [
-  "mjolnir/hit_1",
-  "mjolnir/hit_2",
-  "mjolnir/hit_3",
-  "mjolnir/hit_4"
-]
-},
-"suit.thor.mjolnir.lightning.hit": {
-"category": "player",
-"sounds": [
-  "mjolnir/lightning/hit_1",
-  "mjolnir/lightning/hit_2",
-  "mjolnir/lightning/hit_3",
-  "mjolnir/lightning/hit_4"
-]
-},
-"suit.thor.mjolnir.lightning.flicker_loop": {
-"category": "player",
-"sounds": [
-  "mjolnir/lightning/flicker_loop"
-]
-},
-"suit.thor.mjolnir.lightning.lightning_shoot": {
-"category": "player",
-"sounds": [
-  "mjolnir/lightning/lightning_shoot"
-]
-},
-"suit.thor.mjolnir.lightning.charged_beam.shoot": {
-"category": "player",
-"sounds": [
-  "mjolnir/lightning/charged_beam_shoot"
-]
-},
-"suit.thor.mjolnir.lightning.charged_beam.loop": {
-"category": "player",
-"sounds": [
-  "mjolnir/lightning/charged_beam_loop"
-]
-},
-"suit.thor.mjolnir.lightning.charged_beam.stop": {
-"category": "player",
-"sounds": [
-  "mjolnir/lightning/charged_beam_stop"
-]
-},
-"main.raidenscream": {
-"sounds": [
-  {
-    "name": "raidenscream"
-  }
-],
-"category": "player"
-},
-"main.tokarev": {
-"sounds": [
-  {
-    "name": "tokarev"
-  }
-],
-"category": "player"
-},
-"main.tf2_rocket_launcher": {
-"sounds": [
-  {
-    "name": "tf2_rocket_launcher"
-  }
-],
-"category": "player"
-},
-"main.walther_ppk": {
-"sounds": [
-  {
-    "name": "walther_ppk"
-  }
-],
-"category": "player"
-},
-"main.golden_gun": {
-"sounds": [
-  {
-    "name": "golden_gun"
-  }
-],
-"category": "player"
-},
-"main.big_iron": {
-"sounds": [
-  {
-    "name": "big_iron"
-  }
-],
-"category": "player"
-},
-"main.fire_beams": {
-"sounds": [
-  {
-    "name": "fire_beams"
-  }
-],
-"category": "player"
-},
-"main.nightcrawler_bamf": {
-"sounds": [
-  {
-    "name": "nightcrawler_bamf"
-  }
-],
-"category": "player"
-}
 }
