@@ -261,27 +261,11 @@
     ],
     "category": "player"
   },
-  "main.block(1)": {
+  "main.block": {
     "sounds": [
-      {
-        "name": "lightsaber/block/block(1)"
-      }
-    ],
-    "category": "player"
-  },
-  "main.block(2)": {
-    "sounds": [
-      {
-        "name": "lightsaber/block/block(2)"
-      }
-    ],
-    "category": "player"
-  },
-  "main.block(3)": {
-    "sounds": [
-      {
-        "name": "lightsaber/block/block(3)"
-      }
+      "lightsaber/block/block1",
+      "lightsaber/block/block2",
+      "lightsaber/block/block3"
     ],
     "category": "player"
   },
@@ -293,83 +277,33 @@
     ],
     "category": "player"
   },
-  "main.ignite(1)": {
+  "main.ignite": {
     "sounds": [
-      {
-        "name": "lightsaber/ignite/ignite(1)"
-      }
+      "lightsaber/ignite/ignite1",
+      "lightsaber/ignite/ignite2"
     ],
     "category": "player"
   },
-  "main.ignite(2)": {
+  "main.strike": {
     "sounds": [
-      {
-        "name": "lightsaber/ignite/ignite(2)"
-      }
+      "lightsaber/strike/strike1",
+      "lightsaber/strike/strike2",
+      "lightsaber/strike/strike3"
     ],
     "category": "player"
   },
-  "main.strike(1)": {
+  "main.swing": {
     "sounds": [
-      {
-        "name": "lightsaber/strike/strike(1)"
-      }
+      "lightsaber/swing/swing1",
+      "lightsaber/swing/swing2",
+      "lightsaber/swing/swing3"
     ],
     "category": "player"
   },
-  "main.strike(2)": {
+  "main.unignite": {
     "sounds": [
-      {
-        "name": "lightsaber/strike/strike(2)"
-      }
-    ],
-    "category": "player"
-  },
-  "main.strike(3)": {
-    "sounds": [
-      {
-        "name": "lightsaber/strike/strike(3)"
-      }
-    ],
-    "category": "player"
-  },
-  "main.swing(1)": {
-    "sounds": [
-      {
-        "name": "lightsaber/swing/swing(1)"
-      }
-    ],
-    "category": "player"
-  },
-  "main.swing(2)": {
-    "sounds": [
-      {
-        "name": "lightsaber/swing/swing(2)"
-      }
-    ],
-    "category": "player"
-  },
-  "main.swing(3)": {
-    "sounds": [
-      {
-        "name": "lightsaber/swing/swing(3)"
-      }
-    ],
-    "category": "player"
-  },
-  "main.unignite(1)": {
-    "sounds": [
-      {
-        "name": "lightsaber/unignite/unignite(1)"
-      }
-    ],
-    "category": "player"
-  },
-  "main.unignite(2)": {
-    "sounds": [
-      {
-        "name": "lightsaber/unignite/unignite(2)"
-      }
+      "lightsaber/unignite/unignite1",
+      "lightsaber/unignite/unignite2"
     ],
     "category": "player"
   }
