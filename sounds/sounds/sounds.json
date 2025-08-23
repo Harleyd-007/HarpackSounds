@@ -272,7 +272,7 @@
   "main.hum": {
     "sounds": [
       {
-        "name": "lightsaber/block/hum"
+        "name": "lightsaber/hum/hum"
       }
     ],
     "category": "player"
